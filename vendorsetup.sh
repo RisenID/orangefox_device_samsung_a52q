@@ -22,3 +22,4 @@ export FOX_BUILD_TYPE="Stable"
 export FOX_VERSION="R11.1_1"
 export OF_FL_PATH1="/tmp/flashlight" # See /init.recovery.qcom.rc for more information
 export OF_FL_PATH2=""
+export FOX_USE_SPECIFIC_MAGISK_ZIP=device/samsung/a52q/Magisk-cfb20b0f-26401.zip
